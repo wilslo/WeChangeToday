@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Como fazer um Hello World com Vue.js 2"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "Be happy with your kids"
+description: steps to be happy with your kids, Kids are great
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504810464/hello-world-vue_ibatoy.jpg'
-category: 'tutorial'
+category: 'Kids'
 tags:
 - vuejs
 - javascript
@@ -11,8 +11,8 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
+Have a awesome<b> weekend</b>,
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
