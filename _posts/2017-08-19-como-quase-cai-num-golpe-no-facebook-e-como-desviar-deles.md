@@ -11,8 +11,17 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
+“I will start my exercise routine next week,” 
+“Will read that long pending motivational book tomorrow,”
+“My schedule is haywire… will surely catch up with my friend next month,” 
+Are these your usual statements? If you have a valid justification to postponing some long pending task due to your illness or a real (I mean a real-real) time crunch then, that’s fine. But, most of the time, that is not the case. We postpone, ‘cos postponement has become an embedded habit in our system. So you might say… SO WHAT?
+You could still continue to postpone your activities, but the final inevitable will still loom and your guilty conscience you never did the task will nag at the back of your mind. Like an art collector you would keep your tasks that are age old. It’s better to change before something or someone forces you to change. We postpone that walk or the exercise routine for a long time, and our body would take its toll silently. One fine day it would say ‘Ah…. that’s enough… I cannot take it anymore…’ and then it would break down. At that point in time it might force you to meet up with a doctor and he would say, you don’t have an alternative… go for a bypass / take these pills and ensure that you walk a minimum of 45 minutes per day. From that point in time you would religiously walk the needed 45 minutes. Now, now… where did you get this 45 minutes? Where did the time come from your busy schedule? Why don’t you procrastinate now? 
+Yes, you realize that you cannot or your body cannot take it any longer and now make the time, energy & will to take that walk or start that exercise routine. Why did you have to wait till that point of no return to start something, you could have completely avoided the point of no return?
+To start with don’t go for a huge goal. Put up something that is small enough. Maybe a 5 Minutes exercise routine or a conscious decision you would take the stairs instead of the lift. Do this consistently and after a week or two increase the time or have an add on. In this way you could surely avoid the habit of procrastination.
+          Be active to be proactive, 
+          Not passive to become de-active.–JWL
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+// Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
